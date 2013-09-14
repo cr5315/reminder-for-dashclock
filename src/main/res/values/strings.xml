@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quick Reminder for DashClock</string>
+    <string name="extension_desc">Displays a simple reminder</string>
+    <string name="extension_name">Quick Reminder</string>
+    <string name="settings_name">Reminder Settings</string>
+
+
+    <string name="pref_title">Reminder Title</string>
+    <string name="pref_code_title">title</string>
+    <string name="pref_body">Reminder Body</string>
+    <string name="pref_code_body">body</string>
+
+    <string name="error_no_title">No reminder set</string>
+    <string name="error_no_body">Click here to set a reminder</string>
+    <string name="error_no_status">Reminder</string>
+</resources>
